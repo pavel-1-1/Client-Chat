@@ -44,5 +44,3 @@ public class Incoming implements Runnable {
         running = false;
     }
 }
-
-
